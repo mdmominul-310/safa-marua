@@ -1,0 +1,44 @@
+[
+    {
+      "key": "dlkfjdkfj5",
+      "serviceName": "Blood Test",
+      "description": "One of the best Blood test report make form safa marua hospital book now",
+      "price": 100,
+      "imgUrl": "https://images.unsplash.com/photo-1542884841-9f546e727bca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "key": "ldfjdkl654",
+      "serviceName": "Glocose Test",
+      "description": "The Best sugar report test make from sfa marua hospital.stay safe ",
+      "price": 200,
+      "imgUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    {
+      "key": "peiorep654",
+      "serviceName": "ECG",
+      "description": "One of the best ECG report make form safa marua hospital book now",
+      "price": 150,
+      "imgUrl": "https://images.unsplash.com/photo-1628348070889-cb656235b4eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "key": "iopdjfd4654",
+      "serviceName": "MRI",
+      "description": "One of the best MRI report make form safa marua hospital book now",
+      "price": 5000,
+      "imgUrl": "https://images.unsplash.com/photo-1516069677018-378515003435?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1229&q=80"
+    },
+    {
+      "key": "ouiered65",
+      "serviceName": "Altasonogram",
+      "description": "One of the best Alta report make form safa marua hospital book now",
+      "price": 1000,
+      "imgUrl": "https://images.unsplash.com/flagged/photo-1578535689084-b804a326a840?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80"
+    },
+    {
+      "key": "dklfjd4654",
+      "serviceName": "Btct",
+      "description": "One of the best  Btct test report make form safa marua hospital book now",
+      "price": 1500,
+      "imgUrl": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1152&q=80"
+    }
+  ]

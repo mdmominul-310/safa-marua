@@ -1,0 +1,10 @@
+.hover-regular:hover{
+    background-color: rgba(241, 237, 237, 0.562);
+    transform: scale(.97);
+}
+.pos-style{
+    position: relative;
+    top: -110px;
+    z-index:1;
+    
+}
