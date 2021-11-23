@@ -1,2 +1,4 @@
-# thti website made for hosptal
-# this website show everythin related hosptial
+# thti website made for hosptal service related
+# Tools:
+html,css,bootstrap,react-bootstrap,react,firebase,node,express.
+#Live website link:
